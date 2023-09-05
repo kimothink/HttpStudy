@@ -32,7 +32,7 @@
     - MIME은 인코딩 기법이며 인코딩을 한 파일에 Content-type을 같이 담게 된다.
     - 확인 방법 : 개발자 도구(F12) → 네트워크 에서 확인 하실 수 있습니다.
     
-    ![Untitled](HTTP%20%E1%84%80%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%206c2d4acc9ec64e1883bb47abc366846c/Untitled%201.png)
+    ![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%202.png?raw=true)
     
 
 ## 1.3.2 URI(Uniform Resource Identifier)
