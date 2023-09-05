@@ -18,7 +18,7 @@
     - 사파이어
     - 파이어폭스
 
-![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%201.png)
+![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled.png?raw=true)
 
 ## 1.3 리소스
 
