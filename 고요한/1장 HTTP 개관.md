@@ -37,7 +37,7 @@
 
 ## 1.3.2 URI(Uniform Resource Identifier)
 
-![Untitled](HTTP%20%E1%84%80%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%206c2d4acc9ec64e1883bb47abc366846c/Untitled%202.png)
+![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%203.png?raw=true)
 
 - 클라이언트는 웹서버에서 관심이 있는 리소스를 지목할 수 있습니다.
 - URI 뜻은 우리말로 ‘**통합 자원 식별자**’ 이다.
