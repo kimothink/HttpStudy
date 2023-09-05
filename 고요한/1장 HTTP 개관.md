@@ -32,12 +32,12 @@
     - MIME은 인코딩 기법이며 인코딩을 한 파일에 Content-type을 같이 담게 된다.
     - 확인 방법 : 개발자 도구(F12) → 네트워크 에서 확인 하실 수 있습니다.
     
-    ![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%202.png?raw=true)
+    ![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%201.png?raw=true)
     
 
 ## 1.3.2 URI(Uniform Resource Identifier)
 
-![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%203.png?raw=true)
+![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%202.png?raw=true)
 
 - 클라이언트는 웹서버에서 관심이 있는 리소스를 지목할 수 있습니다.
 - URI 뜻은 우리말로 ‘**통합 자원 식별자**’ 이다.
@@ -55,7 +55,7 @@ https://img.danawa.com/new/danawa_main/v1/img/danawa_logo_main_brand.png
 - 우리는 URL을 웹 사이트 주소로만 알고 있지만, URL은 웹사이트 주소 뿐만 아니라 컴퓨터 네트워크상의 자원을 나타내는 표기법이다.
 - 오늘날 대부분의 URI는 URL이다.
 
-![Untitled](HTTP%20%E1%84%80%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%206c2d4acc9ec64e1883bb47abc366846c/Untitled%203.png)
+![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%203.png?raw=true)
 
 - 스킴(Scheme) : URL의 첫 번째 부분은 스킴이라고 불리는데 , 리소스에 접근하기 위해 사용되는 프로토콜을 서술한다. 웹은 HTTP 프로토콜(http://) 이다.
 - 두 번째 부분은 서버의 인터넷 주소를 제공한다.( 예 : www.elancer.co.kr)
@@ -67,7 +67,7 @@ https://img.danawa.com/new/danawa_main/v1/img/danawa_logo_main_brand.png
 - URN은 콘텐츠를 이루는 한 리소스에 대해, 그 리소스의 위치에 영향 받지 않은 유일무이한 이름 역할은 한다.
 - 독립적인 URN은 리소스를 여기저기로 옮기더라고 문제없이 동작한다.(리소스가 그 이름을 변하지 않게 유지 하는 한 , 여러 종류의 네트워크 프로토콜로 접속해도 문제없다.)
 
-![Untitled](HTTP%20%E1%84%80%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%206c2d4acc9ec64e1883bb47abc366846c/Untitled%204.png)
+![Untitled](https://github.com/kimothink/HttpStudy/blob/main/%EA%B3%A0%EC%9A%94%ED%95%9C/1%EC%9E%A5%20HTTP%20%EA%B0%9C%EA%B4%80/Untitled%204.png?raw=true)
 
 ### 1.4 트랜잭션
 
